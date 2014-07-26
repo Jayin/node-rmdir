@@ -1,4 +1,4 @@
-node-rmdir
+node-rmdir ![build status](https://travis-ci.org/Jayin/node-rmdir.svg?branch=master)
 ===
 delete folder with recursive
 
